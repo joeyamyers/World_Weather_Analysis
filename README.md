@@ -1,5 +1,4 @@
 # World_Weather_Analysis
 
-# Project Overview
-## Purpose
-The goal of this project was to create a possible travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. 
+## Project Overview
+The goal of this project was to improve upon the previously created PlanMyTrip app. In order to accomplish this, I firstly added a weather description for each city. Then, I gave the customer the choice to search for travel destinations based on their weather preferences in the form of an input statement. From the narrowed-down list of potential travel destinations, the customer will then choose four cities to create a travel itinerary. Using the Google Maps Directions API, I created a travel route between the four cities as well as a marker layer map for the customer to visualize their travel preferences.
