@@ -3,7 +3,7 @@ config.py
 
 # adding additional files
 random_numbers.ipynb
-Vacation.Py.ipynb
+VacationPy.ipynb
 WeatherPy.ipynb
 .DS_Store
 
